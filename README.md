@@ -8,7 +8,7 @@ For more information: https://www.linkedin.com/in/shawyan-t-36488525b/overlay/17
 # Contributors:
 Shawyan Tabari
 
-Elesey Razummovskiy
+Elesey Razumovskiy
 
 Judah Tanninen
 
