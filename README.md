@@ -1,5 +1,4 @@
-# Interactive-Regression-Model
-Multi-model Interactive Regression creator and visualizer 
+# Interactive Regression Model Builder with Visualization Tools
 
 Cloned from original repository hosted by iaad1 (Judah Tanninen)
 
@@ -12,4 +11,6 @@ Elesey Razumovskiy
 
 Judah Tanninen
 
+# Visual Example on YouTube
+[![YouTube Video](https://img.youtube.com/vi/Jqce7C7imMI/0.jpg)](https://www.youtube.com/watch?v=Jqce7C7imMI)
 
